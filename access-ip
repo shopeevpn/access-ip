@@ -1,0 +1,9 @@
+#& testlifetime Lifetime 1.2.3.4 true
+### test_exp 2022-02-08 8.8.8.8 false
+#& x1a Lifetime 124.217.246.73 boss
+#& sgx8a Lifetime 159.223.68.228 boss
+#& x2a Lifetime 124.217.225.127 boss
+#& sgx1 Lifetime 139.59.117.210 boss
+#& 8.8.8.90 Lifetime  
+#& 8.1.8.1 Lifetime  
+#& 8.2.8.2 Lifetime  
